@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # Run grading script a given number of times, sending grade outputs into 
 # grades.txt and returns lowest score in the shell
